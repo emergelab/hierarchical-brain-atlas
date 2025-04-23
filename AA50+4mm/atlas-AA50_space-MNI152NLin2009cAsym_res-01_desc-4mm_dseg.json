@@ -5,7 +5,7 @@
         "Teddy J. Akiki"
     ],
     "BIDSVersion": "1.10.0",
-    "Description": "A424 atlas in MNI152NLin2009cAsym space",
     "Space": "MNI152NLin2009cAsym",
-    "Resolution": "1mm"
+    "Resolution": "1mm",
+    "Description": "AA50 atlas in MNI152NLin2009cAsym space"
 }
