@@ -174,4 +174,5 @@ cython_debug/
 .pypirc
 
 # misc
-/data
+# /data
+tpl*
