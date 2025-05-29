@@ -1,51 +1,51 @@
 index	label	region_name
-1	paraM VI	Paramedial VI
-2	inf VS	Inferior VS
-3	riAL CE	Right Anterolateral CE
-4	med SM	Medial SM
-5	postM DM	Posteromedial DM
-6	sup DS	Superior DS
-7	cb SC	Cerebellar SC
-8	lat VI	Lateral VI
-9	para VI	Para VI
-10	sc CE	Subcortical CE
-11	audi SM	Auditory SM
-12	paraI SM	Para-inferior SM
-13	lang DM	Language DM
-14	dACC CE	Dorsal Anterior Cingulate Cortex CE
-15	midL VI	Midlateral VI
-16	inf DS	Inferior DS
-17	post VS	Posterior VS
-18	le CE	Left CE
-19	supL VI	Superolateral VI
-20	aff DM	Affectice DM
-21	limb CE	Limbic CE
-22	med VI	Medial VI
-23	sup VS	Superior VS
-24	temp DM	Temporal DM
-25	cent SM	Central SM
-26	para SM	Paracentral SM
-27	IFJa CE	Inferior Frontal Junction a CE
-28	paraPM DM	Para-posterioromedial DM
-29	5mv VS	Area 5m Ventral VS
-30	ri CE	Right CE
-31	paraI VI	Para-inferior VI
-32	IP0 VI	IntraParietal 0 VI
-33	FEF VS	Frontal Eye Fields VS
-34	PEF DS	Premotor Eye Field DS
-35	cb CE	Cerebellar CE
-36	postL VI	Posterolateral VI
-37	post DS	Post DS
-38	olfa SM	Olfactory SM
-39	para VS	Paralateral VS
-40	riDF DM	Right Dorsofrontal DM
-41	GPu SC	Globus Pallidus Putamen SC
-42	IFJp CE	Inferior Frontal Junction p CE
-43	precI SM	Precentral Inferior SM
-44	inf SM	Inferior SM
-45	antM DM	Anteromedial DM
-46	face VI	Face Complex VI
-47	rACC CE	Rostral Anterior Cingulate Cortex CE
-48	broca DM	Broca (BA45) DM
-49	riPL CE	Right Posterolateral CE
-50	hip DM	Hippocampal DM
+1	paraM_VI	Paramedial VI
+2	inf_VS	Inferior VS
+3	riAL_CE	Right Anterolateral CE
+4	med_SM	Medial SM
+5	postM_DM	Posteromedial DM
+6	sup_DS	Superior DS
+7	cb_SC	Cerebellar SC
+8	lat_VI	Lateral VI
+9	para_VI	Para VI
+10	sc_CE	Subcortical CE
+11	audi_SM	Auditory SM
+12	paraI_SM	Para-inferior SM
+13	lang_DM	Language DM
+14	dACC_CE	Dorsal Anterior Cingulate Cortex CE
+15	midL_VI	Midlateral VI
+16	inf_DS	Inferior DS
+17	post_VS	Posterior VS
+18	le_CE	Left CE
+19	supL_VI	Superolateral VI
+20	aff_DM	Affectice DM
+21	limb_CE	Limbic CE
+22	med_VI	Medial VI
+23	sup_VS	Superior VS
+24	temp_DM	Temporal DM
+25	cent_SM	Central SM
+26	para_SM	Paracentral SM
+27	IFJa_CE	Inferior Frontal Junction a CE
+28	paraPM_DM	Para-posterioromedial DM
+29	5mv_VS	Area 5m Ventral VS
+30	ri_CE	Right CE
+31	paraI_VI	Para-inferior VI
+32	IP0_VI	IntraParietal 0 VI
+33	FEF_VS	Frontal Eye Fields VS
+34	PEF_DS	Premotor Eye Field DS
+35	cb_CE	Cerebellar CE
+36	postL_VI	Posterolateral VI
+37	post_DS	Post DS
+38	olfa_SM	Olfactory SM
+39	para_VS	Paralateral VS
+40	riDF_DM	Right Dorsofrontal DM
+41	GPu_SC	Globus Pallidus Putamen SC
+42	IFJp_CE	Inferior Frontal Junction p CE
+43	precI_SM	Precentral Inferior SM
+44	inf_SM	Inferior SM
+45	antM_DM	Anteromedial DM
+46	face_VI	Face Complex VI
+47	rACC_CE	Rostral Anterior Cingulate Cortex CE
+48	broca_DM	Broca (BA45) DM
+49	riPL_CE	Right Posterolateral CE
+50	hip_DM	Hippocampal DM

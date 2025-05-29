@@ -1,25 +1,25 @@
 index	label	region_name
-1	paraM VI	Paramedial VI
-2	inf VS	Inferior VS
-3	ri CE	Right CE
-4	cent SM	Central SM
-5	med DM	Medial DM
-6	sup DS	Superior DS
-7	GPu SC	Globus Pallidus Putamen SC
-8	infL VI	Inferolateral VI
-9	para VI	Para VI
-10	sc CE	Subcortical CE
-11	audi SM	Auditory SM
-12	inf SM	Inferior SM
-13	lang DM	Language DM
-14	dACC CE	Dorsal Anterior Cingulate Cortex CE
-15	midL VI	Midlateral VI
-16	inf DS	Inferior DS
-17	post VS	Posterior VS
-18	le CE	Left CE
-19	supL VI	Superolateral VI
-20	aff DM	Affectice DM
-21	limb CE	Limbic CE
-22	med VI	Medial VI
-23	sup VS	Superior VS
-24	temp DM	Temporal DM
+1	paraM_VI	Paramedial VI
+2	inf_VS	Inferior VS
+3	ri_CE	Right CE
+4	cent_SM	Central SM
+5	med_DM	Medial DM
+6	sup_DS	Superior DS
+7	GPu_SC	Globus Pallidus Putamen SC
+8	infL_VI	Inferolateral VI
+9	para_VI	Para VI
+10	sc_CE	Subcortical CE
+11	audi_SM	Auditory SM
+12	inf_SM	Inferior SM
+13	lang_DM	Language DM
+14	dACC_CE	Dorsal Anterior Cingulate Cortex CE
+15	midL_VI	Midlateral VI
+16	inf_DS	Inferior DS
+17	post_VS	Posterior VS
+18	le_CE	Left CE
+19	supL_VI	Superolateral VI
+20	aff_DM	Affectice DM
+21	limb_CE	Limbic CE
+22	med_VI	Medial VI
+23	sup_VS	Superior VS
+24	temp_DM	Temporal DM
