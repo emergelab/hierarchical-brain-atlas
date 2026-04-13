@@ -1,0 +1,11 @@
+{
+    "Name": "AA50",
+    "Authors": [
+        "Chadi G. Abdallah",
+        "Teddy J. Akiki"
+    ],
+    "BIDSVersion": "1.11.0",
+    "Space": "MNI152NLin2009cAsym",
+    "Resolution": "1mm",
+    "Description": "AA50 atlas in MNI152NLin2009cAsym space"
+}

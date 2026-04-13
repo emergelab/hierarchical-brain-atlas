@@ -1,0 +1,9 @@
+{
+    "Name": "AA7",
+    "Authors": [
+        "Chadi G. Abdallah",
+        "Teddy J. Akiki"
+    ],
+    "BIDSVersion": "1.11.0",
+    "Description": "AA7 atlas in MNI152NLin2009cAsym space"
+}
